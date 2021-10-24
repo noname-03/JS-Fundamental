@@ -1,0 +1,1 @@
+document.writeln("ini js menggunakan file js")
